@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- 🔭 I’m currently working on an Meng specializing in Software engineering and will be graduating in April 2023.
-- 🌱 I have been learning java, python, C++, Node.js, React and a number of machine learning concepts and libraries. 
+- 🔭 I’m currently working as a Software Developer for Cybera Inc.
+
 - 😄 Pronouns: He/Him
